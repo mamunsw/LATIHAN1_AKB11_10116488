@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="sunYellow">#ffe41e</color>
+    <color name="butterScotch">#fcb93a</color>
+    <color name="darkBlue">#494dea</color>
+    <color name="sunBlue">#8084f6</color>
+    <color name="whiteTree">#f8f8f8</color>
+    <color name="black">#000000</color>
+    <color name="whitetwo">#f2f2f2</color>
+    <color name="colorAccent">#D81B60</color>
+</resources>

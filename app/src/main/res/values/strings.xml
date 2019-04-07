@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">LAT1_AKB11_10116488</string>
+    <string name="welcome">Monitory Membantu Anda \n Mengontrol HP Anak</string>
+    <string name="familycode">Kode Keluarga</string>
+    <string name="attention">Ketikan kode keluarga yang Ayah Bunda miliki disini</string>
+    <string name="code">A1B2C3</string>
+    <string name="syarat">Dengan menekan tombol masuk berarti Anda menyetujui</string>
+    <string name="user">Ketentuan Pengguna dan Kebijakan Data kami</string>
+    <string name="havenocode">Belum punya kode keluarga?</string>
+    <string name="buyhere">Beli Kode Keluarga Disini</string>
+    <string name="callname">Nama Panggilan Kamu</string>
+    <string name="budi">Contoh : Budi</string>
+    <string name="yourage">Umur Kamu</string>
+    <string name="old">Contoh : 12</string>
+</resources>

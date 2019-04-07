@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".Halaman4">
+    <RelativeLayout
+        android:layout_marginTop="50dp"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_weight="0.1"
+        android:paddingRight="25dp"
+        android:paddingLeft="25dp">
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/sayhi"
+            android:fontFamily="@font/nunito_bold"
+            android:textSize="30dp"
+            android:text="Beres! Sekarang kamu udah bisa ngecek penggunaan HP mu tiap hari buat bantu kamu ngatur waktu :)"
+            android:textColor="@color/black"/>
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_weight="0.4"
+        android:gravity="center">
+        <Button
+            android:layout_width="230dp"
+            android:layout_height="wrap_content"
+            android:background="@drawable/buttonyellow"
+            android:text="Oke"
+            android:textAllCaps="false"/>
+    </RelativeLayout>
+</LinearLayout>
